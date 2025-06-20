@@ -1,0 +1,7 @@
+User-agent: Yandex
+Disallow: /register
+Dissalow: /login
+
+User-agent: Googlebot
+Disallow: /register
+Disallow: /login
